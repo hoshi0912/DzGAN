@@ -4,3 +4,4 @@ DzGAN
 `python train_dzgan -g 0 -c 10 -s 0.1 -b 64`
 
 ## MITLisence
+[MIT](https://github.com/hoshi0912/DzGAN/blob/master/LICENSE)
